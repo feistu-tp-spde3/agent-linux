@@ -1,0 +1,6 @@
+treba vytvorit:
+
+log/
+bin/
+Dumps/tmp
+Dumps/final
